@@ -1,0 +1,14 @@
+{
+  "name": "damiwork/php-parquet-array",
+  "description": "Parquet to Array",
+  "require": {
+    "php": ">=7.4",
+    "codename/parquet": "^0.6.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "ParquetArray\\": "src/"
+    }
+  },
+  "license": "MIT"
+}
